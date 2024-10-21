@@ -1,0 +1,16 @@
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.exe
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.deps.json
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.runtimeconfig.json
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.runtimeconfig.dev.json
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.dll
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\bin\Debug\net5.0\RandomWorkout.pdb
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.csproj.AssemblyReference.cache
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.AssemblyInfoInputs.cache
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.AssemblyInfo.cs
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.csproj.CoreCompileInputs.cache
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.dll
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\refint\RandomWorkout.dll
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.pdb
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\RandomWorkout.genruntimeconfig.cache
+C:\Users\Y2SPECTIFUL\source\repos\RandomWorkout\RandomWorkout\obj\Debug\net5.0\ref\RandomWorkout.dll
