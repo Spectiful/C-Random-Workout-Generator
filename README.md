@@ -1,6 +1,6 @@
 The following c# project will randomly create a workout plan for the user that doesn't have time to create one on their own.
 
-The program consist of following 
+\nThe program consist of following 
 switch cases where the user will have different options appear depending on the choices made
 The workouts types will consist of Upper, Lower, and Full body options which is are inside of a method function
 The exercises are inside of a array for upper, lower, and full body along with a random function that will randomly select a workout from the arrays
